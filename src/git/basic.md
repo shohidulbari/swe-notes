@@ -6,3 +6,7 @@
 	```bash
 	git commit --all --amend --no-edit
 	```
+- Rebasing with interactive shell
+    ```bash
+    git rebase -i {{base branch}}
+    ```
