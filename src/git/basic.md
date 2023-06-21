@@ -10,3 +10,13 @@
     ```bash
     git rebase -i {{base branch}}
     ```
+
+- Show all the stashes
+	```bash
+	git stash list
+	```
+
+- Stash with a message
+	```bash
+	git stash save "This is a message"
+	```
